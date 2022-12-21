@@ -1,5 +1,5 @@
 # CS-Paint
-UNSW COMP1511 19T3 Project
+UNSW COMP1511 19T3 Individual Project
 
 A simple program for drawing with integers on a canvas of pixels (2D array).
 
